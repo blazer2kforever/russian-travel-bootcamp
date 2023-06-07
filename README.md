@@ -1,4 +1,4 @@
-English README version: [![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/blazer2kforever/russian-travel-bootcamp/blob/main/README-en.md)
+English README version: [![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/blazer2kforever/russian-travel-bootcamp/blob/main/README.en.md)
 
 # Учебный проект "Путешествие по России"
 
