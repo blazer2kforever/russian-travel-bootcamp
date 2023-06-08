@@ -7,6 +7,12 @@
 @media screen and (max-width: 767px) {
   .place__website {
     align-self: flex-start;
+    margin: 32px 0;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .place__website {
     margin: 32px 16px;
   }
 }
